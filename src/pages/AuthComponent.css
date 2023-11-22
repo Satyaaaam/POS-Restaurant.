@@ -1,0 +1,29 @@
+.login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-55%, -50%);
+}
+
+.login h2 {
+    text-align: center;
+}
+
+.login button {
+    margin-top: 10px;
+    width: 50px;
+    width: 450px;
+}
+
+.login input {
+    margin-top: 30px;
+}
+
+
+@media (max-width: 500px) {
+
+    .login button {
+        width: 190px;
+    }
+    
+}

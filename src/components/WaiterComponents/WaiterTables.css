@@ -1,0 +1,19 @@
+.tables h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tableButtons {
+    
+    text-align: center;
+    margin-top: 30px;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tableClick {
+    margin: 5px;
+    width: 300px;
+}

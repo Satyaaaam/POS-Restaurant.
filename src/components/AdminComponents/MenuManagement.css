@@ -1,0 +1,38 @@
+.priceInput {
+    margin-top: 10px;
+}
+
+.MenuManagement input {
+    width: 450px
+}
+
+.addNewItem {
+    margin-top: 10px;
+    width: 450px
+}
+
+.delete {
+    margin: 25px;
+}
+
+.MenuSection1 {
+    margin: 50px;
+}
+
+
+.MenuSection2 {
+    margin: 50px;
+}
+
+.MenuManagement h2  {
+    text-align: center;
+}
+
+.MenuManagement h3 {
+    text-align: center;
+}
+
+.MenuManagement {
+    display: flex;
+    justify-content: center;
+}

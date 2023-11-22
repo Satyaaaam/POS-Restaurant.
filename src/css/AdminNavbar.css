@@ -1,0 +1,37 @@
+nav {
+  height: 100px;
+  
+}
+nav ul {
+    
+
+    margin-bottom: 20px;
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: #e3f2fd;
+  }
+  
+nav li {
+    background-color: #e3f2fd;
+    font-size: 20px;
+    display: inline;
+    float: center;
+    margin: 57px;
+    margin-bottom: 15px;
+  }
+
+nav a {
+    text-decoration: none;
+    background-color: #e3f2fd;
+    color: #6a6a6a;
+    
+  }
+
+nav a:hover {
+    color: black;
+    
+  }

@@ -1,0 +1,23 @@
+.PlaceMenu {
+    margin: 50px;
+}
+
+.PlaceMenu ul {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.PlaceMenu li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.PlaceMenu .add {
+    margin-left: 5px;
+}
+
+.PlaceMenu h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
