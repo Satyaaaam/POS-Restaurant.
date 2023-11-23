@@ -123,7 +123,7 @@ const TableBillingComponent = () => {
 
   useEffect(() => {
     fetchOrders();
-    const intervalId = setInterval(fetchOrders, 3000);
+    const intervalId = setInterval(fetchOrders, 1000);
     return () => clearInterval(intervalId);
   }, [fetchOrders]);
 
